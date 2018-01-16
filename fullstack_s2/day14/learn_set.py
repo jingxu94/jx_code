@@ -1,3 +1,28 @@
 #__author:  "Jing Xu"
 #date:  2018/1/14
-
+# ---------------------------------------------------------------------
+# s = set( ['alvin','ee','alvin'] )
+# print(s)
+# s.add('uu')
+# print(s)
+# s.update('ooo')
+# print(s)
+# s.update([12,'eee'])
+# print(s)
+# ---------------------------------------------------------------------
+a = set( [1,2,3,4,5] )
+b = set( [4,5,6,7,8] )
+print( a.intersection(b) )
+print( a.union(b) )
+print( a.difference(b) )
+print( b.difference(a) )
+print( a.symmetric_difference(b) )
+print( a.issuperset(b) )
+print( a.issubset(b) )
+print( a&b )
+print( a|b )
+print( a-b )
+print( b-a )
+print( a^b )
+print( a>b )
+print( a<b )
