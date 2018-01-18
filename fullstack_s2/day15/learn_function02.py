@@ -55,6 +55,11 @@
 # from functools import reduce
 # print(reduce(lambda x,y: x*y,range(1,6)))
 # ----------------------------------------------------------------
-squares = map(lambda x:x*x,range(9))
-print(squares)
-print(list(squares))
+# squares = map(lambda x:x*x,range(9))
+# print(squares)
+# print(list(squares))
+# ----------------------------------------------------------------
+from functools import reduce
+print(list(map(lambda x:x*x,[0,1,2,3,4,5,6])))
+print(reduce(lambda x,y:x+y,[0,1,2,3,4,5,6]))
+print(list(filter(lambda x:x&1,[0,1,2,3,4,5,6])))
