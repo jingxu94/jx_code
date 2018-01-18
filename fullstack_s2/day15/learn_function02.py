@@ -23,23 +23,38 @@
 #
 # print( foo() )
 # ----------------------------------------------------------------
-def f(n):
-	flag = 1
-	for i in range(n):
-		flag *= (i+1)
-	return flag
-
-print(f(5))
-print(f(7))
-
-def g(n):
-	if n==1:
-		return 1
-	return  n*g(n-1)
-
-print(g(5))
-print(g(7))
-
-
-
-
+# def f(n):
+# 	flag = 1
+# 	for i in range(n):
+# 		flag *= (i+1)
+# 	return flag
+#
+# print(f(5))
+# print(f(7))
+#
+# def g(n):
+# 	if n==1:
+# 		return 1
+# 	return  n*g(n-1)
+#
+# print(g(5))
+# print(g(7))
+# ----------------------------------------------------------------
+# def fibo(n):
+# 	if n <= 2:
+# 		return n-1
+# 	return fibo(n-1)+fibo(n-2)
+# print(fibo(8))
+# ----------------------------------------------------------------
+# from functools import reduce
+#
+# def add1(x,y):
+# 	return x + y
+# print(reduce(add1,range(1,101)))
+# ----------------------------------------------------------------
+# from functools import reduce
+# print(reduce(lambda x,y: x*y,range(1,6)))
+# ----------------------------------------------------------------
+squares = map(lambda x:x*x,range(9))
+print(squares)
+print(list(squares))
