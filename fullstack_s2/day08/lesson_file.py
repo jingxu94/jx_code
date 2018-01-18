@@ -67,12 +67,12 @@
 # f_new.close()
 # f_old.close()
 # -------------------------------------------------------------------------
-a = str( {"Beijing":{"1":111}} )
-print( type(a) )
-print(a)
-a = eval(a)
-print( type(a) )
-print( a["Beijing"] )
+# a = str( {"Beijing":{"1":111}} )
+# print( type(a) )
+# print(a)
+# a = eval(a)
+# print( type(a) )
+# print( a["Beijing"] )
 # -------------------------------------------------------------------------
 # with open("helloworld","r") as f:
 # 	print( f.readline() )
