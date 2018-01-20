@@ -1,0 +1,11 @@
+2018-01-20 19:42:46,318-root-WARNING-warning message
+2018-01-20 19:42:46,318-root-ERROR-error message
+2018-01-20 19:42:46,318-root-CRITICAL-critical message
+2018-01-20 19:44:05,514-root-WARNING-warning message
+2018-01-20 19:44:05,514-root-ERROR-error message
+2018-01-20 19:44:05,514-root-CRITICAL-critical message
+2018-01-20 19:49:21,482-root-DEBUG-debug message
+2018-01-20 19:49:21,482-root-INFO-info message
+2018-01-20 19:49:21,482-root-WARNING-warning message
+2018-01-20 19:49:21,483-root-ERROR-error message
+2018-01-20 19:49:21,483-root-CRITICAL-critical message

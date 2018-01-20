@@ -18,19 +18,8 @@ import os
 # ----------------------------------------------------------------------
 # print(type(os.listdir()))
 # print(os.listdir(r'..'))
-# info = os.stat('.\\review.py')
-# print(info.st_size)
-# print(info)
-print(os.path.dirname('.\\review.py'))
-
-
-
-
-
-
-
-
-
-
-
-
+info = os.stat('.\\review.py')
+print(info.st_size)
+print(info)
+# print(os.path.dirname('.\\review.py'))
+# os.path.join([a,b])
