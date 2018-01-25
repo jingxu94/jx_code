@@ -1,21 +1,22 @@
-#__author:  "Jing Xu"
-#date:  2018/1/24
-
+#!_*_coding:utf-8_*_
+#__author__:"Alex Li"
 import os
+import sys
 import logging
-
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+
 DATABASE = {
-	"engine" : "file_storage",
-	"name" : "accounts",
-	"path" : "%s/database" % BASE_DIR
+    'engine': 'file_storage', #support mysql,postgresql in the future
+    'name':'accounts',
+    'path': "%s/db" % BASE_DIR
 }
 
-LOG_LEVEL = logging.WARNING
+
+LOG_LEVEL = logging.INFO
 LOG_TYPES = {
-	"transaction" : "transactions.log",
-	"access" : "access.log",
+    'transaction': 'transactions.log',
+    'access': 'access.log',
 }
 
 TRANSACTION_TYPE = {

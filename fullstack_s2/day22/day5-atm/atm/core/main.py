@@ -1,27 +1,34 @@
-#__author:  "Jing Xu"
-#date:  2018/1/24
+#!_*_coding:utf-8_*_
+#__author__:"Alex Li"
+
+'''
+main program handle module , handle all the user interaction stuff
+
+'''
 
 from core import auth
+from core import accounts
 from core import logger
 from core import accounts
 from core import transaction
 import time
 
-trans_logger = logger.logger("transaction")
+#transaction logger
+trans_logger = logger.logger('transaction')
+#access logger
+access_logger = logger.logger('access')
 
-access_logger = logger.logger("access")
 
+#temp account data ,only saves the data in memory
 user_data = {
-	"account_id" : None,
-	"is_authenticated" : False,
-	"account_data" : None
-}
+    'account_id':None,
+    'is_authenticated':False,
+    'account_data':None
 
+}
 
 def account_info(acc_data):
     print(user_data)
-
-
 def repay(acc_data):
     '''
     print current balance and let user repay the bill
@@ -37,7 +44,7 @@ def repay(acc_data):
     back_flag = False
     while not back_flag:
         repay_amount = input("\033[33;1mInput repay amount:\033[0m").strip()
-        if len(repay_amount) > 0 and repay_amount.isdigit():
+        if len(repay_amount) >0 and repay_amount.isdigit():
             print('ddd 00')
             new_balance = transaction.make_transaction(trans_logger,account_data,'repay', repay_amount)
             if new_balance:
@@ -48,8 +55,6 @@ def repay(acc_data):
 
         if repay_amount == 'b':
             back_flag = True
-
-
 def withdraw(acc_data):
     '''
     print current balance and let user do the withdraw action
@@ -75,15 +80,12 @@ def withdraw(acc_data):
         if withdraw_amount == 'b':
             back_flag = True
 
-
 def transfer(acc_data):
     pass
 def pay_check(acc_data):
     pass
 def logout(acc_data):
     pass
-
-
 def interactive(acc_data):
     '''
     interact with user
@@ -115,11 +117,12 @@ def interactive(acc_data):
 
         else:
             print("\033[31;1mOption does not exist!\033[0m")
-
-
 def run():
-	acc_data = auth.acc_login( user_data, access_logger )
-	if user_data["is_authenticated"]:
-		user_data["account_data"] = acc_data
-		interactive(user_data)
-		access_logger.info("111111")
+    '''
+    this function will be called right a way when the program started, here handles the user interaction stuff
+    :return:
+    '''
+    acc_data = auth.acc_login(user_data,access_logger)
+    if user_data['is_authenticated']:
+        user_data['account_data'] = acc_data
+        interactive(user_data)
