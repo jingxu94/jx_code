@@ -1,5 +1,5 @@
-#!_*_coding:utf-8_*_
-#__author__:"Alex Li"
+#__author:  "Jing Xu"
+#date:  2018/1/25
 
 '''
 main program handle module , handle all the user interaction stuff
@@ -7,7 +7,6 @@ main program handle module , handle all the user interaction stuff
 '''
 
 from core import auth
-from core import accounts
 from core import logger
 from core import accounts
 from core import transaction
@@ -27,8 +26,11 @@ user_data = {
 
 }
 
+
 def account_info(acc_data):
     print(user_data)
+
+
 def repay(acc_data):
     '''
     print current balance and let user repay the bill
@@ -43,18 +45,19 @@ def repay(acc_data):
     print(current_balance)
     back_flag = False
     while not back_flag:
-        repay_amount = input("\033[33;1mInput repay amount:\033[0m").strip()
-        if len(repay_amount) >0 and repay_amount.isdigit():
+        repay_amount = input("\033[33;1mInput repay amount:[b]back\033[0m").strip()
+        if repay_amount == 'b' or repay_amount == "B":
+            back_flag = True
+        elif len(repay_amount) > 0 and repay_amount.isdigit():
             print('ddd 00')
             new_balance = transaction.make_transaction(trans_logger,account_data,'repay', repay_amount)
             if new_balance:
-                print('''\033[42;1mNew Balance:%s\033[0m''' %(new_balance['balance']))
-
+                print('''\033[31;1mNew Balance:%s\033[0m''' %(new_balance['balance']))
         else:
             print('\033[31;1m[%s] is not a valid amount, only accept integer!\033[0m' % repay_amount)
 
-        if repay_amount == 'b':
-            back_flag = True
+
+
 def withdraw(acc_data):
     '''
     print current balance and let user do the withdraw action
@@ -68,37 +71,40 @@ def withdraw(acc_data):
     print(current_balance)
     back_flag = False
     while not back_flag:
-        withdraw_amount = input("\033[33;1mInput withdraw amount:\033[0m").strip()
-        if len(withdraw_amount) >0 and withdraw_amount.isdigit():
+        withdraw_amount = input("\033[33;1mInput withdraw amount:[b]back\033[0m").strip()
+        if withdraw_amount == 'b' or withdraw_amount == "B":
+            back_flag = True
+        elif len(withdraw_amount) >0 and withdraw_amount.isdigit():
             new_balance = transaction.make_transaction(trans_logger,account_data,'withdraw', withdraw_amount)
             if new_balance:
-                print('''\033[42;1mNew Balance:%s\033[0m''' %(new_balance['balance']))
-
+                print('''\033[31;1mNew Balance:%s\033[0m''' %(new_balance['balance']))
         else:
             print('\033[31;1m[%s] is not a valid amount, only accept integer!\033[0m' % withdraw_amount)
 
-        if withdraw_amount == 'b':
-            back_flag = True
 
 def transfer(acc_data):
     pass
 def pay_check(acc_data):
     pass
 def logout(acc_data):
-    pass
+    acc_data = auth.acc_logout( user_data, acc_data )
+    if acc_data:
+        interactive(acc_data)
+
+
 def interactive(acc_data):
     '''
     interact with user
     :return:
     '''
     menu = u'''
-    ------- Oldboy Bank ---------
+    \033[31;1m--------- Tdem Bank ---------\033[0m
     \033[32;1m1.  账户信息
     2.  还款(功能已实现)
     3.  取款(功能已实现)
     4.  转账
     5.  账单
-    6.  退出
+    6.  退出(功能已实现)
     \033[0m'''
     menu_dic = {
         '1': account_info,

@@ -1,5 +1,5 @@
-#!_*_coding:utf-8_*_
-#__author__:"Alex Li"
+#__author:  "Jing Xu"
+#date:  2018/1/25
 
 from conf import settings
 from core import accounts
