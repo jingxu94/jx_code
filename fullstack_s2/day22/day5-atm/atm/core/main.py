@@ -6,10 +6,13 @@ main program handle module , handle all the user interaction stuff
 
 '''
 
+import os,json
 from core import auth
 from core import logger
 from core import accounts
 from core import transaction
+from core import db_handler
+from conf import settings
 import time
 
 #transaction logger
@@ -27,8 +30,34 @@ user_data = {
 }
 
 
-def account_info(acc_data):
-    print(user_data)
+def account_info(user_data):
+    if user_data['is_authenticated'] == True:
+        login_status = "已登录"
+    else:
+        login_status = "未登录"
+    if user_data['account_data']['status'] == 0:
+        card_status = "正常使用"
+    else:
+        card_status = "信用卡异常"
+    msg = '''
+    \033[31;1m-------- 基本信息 --------\033[0m
+    \033[33;1m用户名：\033[0m     \033[32;1m%s\033[0m
+    \033[33;1m登录状态：\033[0m   \033[32;1m%s\033[0m
+    \033[33;1m信用卡额度：\033[0m \033[32;1m%s\033[0m
+    \033[33;1m信用卡余额：\033[0m \033[32;1m%s\033[0m
+    \033[33;1m注册时间：\033[0m   \033[32;1m%s\033[0m
+    \033[33;1m到期时间：\033[0m   \033[32;1m%s\033[0m
+    \033[33;1m还款日：\033[0m     \033[32;1m%s\033[0m
+    \033[33;1m信用卡状态：\033[0m  \033[32;1m%s\033[0m
+    \033[0m'''
+    print(msg %(user_data['account_id'],
+                login_status,
+                str(user_data['account_data']['credit']),
+                str(user_data['account_data']['balance']),
+                user_data['account_data']['enroll_date'],
+                user_data['account_data']['expire_date'],
+                str(user_data['account_data']['pay_day']),
+                card_status))
 
 
 def repay(acc_data):
@@ -65,16 +94,16 @@ def withdraw(acc_data):
     :return:
     '''
     account_data = accounts.load_current_balance(acc_data['account_id'])
-    current_balance= ''' --------- BALANCE INFO --------
+    current_balance = ''' --------- BALANCE INFO --------
         Credit :    %s
         Balance:    %s''' %(account_data['credit'],account_data['balance'])
     print(current_balance)
     back_flag = False
     while not back_flag:
         withdraw_amount = input("\033[33;1mInput withdraw amount:[b]back\033[0m").strip()
-        if withdraw_amount == 'b' or withdraw_amount == "B":
+        if withdraw_amount == "b" or withdraw_amount == "B":
             back_flag = True
-        elif len(withdraw_amount) >0 and withdraw_amount.isdigit():
+        elif len(withdraw_amount) > 0 and withdraw_amount.isdigit():
             new_balance = transaction.make_transaction(trans_logger,account_data,'withdraw', withdraw_amount)
             if new_balance:
                 print('''\033[31;1mNew Balance:%s\033[0m''' %(new_balance['balance']))
@@ -83,7 +112,38 @@ def withdraw(acc_data):
 
 
 def transfer(acc_data):
-    pass
+    account_data = accounts.load_current_balance(acc_data['account_id'])
+    current_balance = ''' --------- BALANCE INFO --------
+        Credit :    %s
+        Balance:    %s''' %(account_data['credit'],account_data['balance'])
+    print(current_balance)
+    trans_back_flag = False
+    while not trans_back_flag:
+        trans_account = input("\033[33;1m请输入转入账户id:[b]back\033[0m").strip()
+        db_path = db_handler.db_handler(settings.DATABASE)
+        account_file = r"%s\\%s.json" % (db_path, trans_account)
+        if trans_account == 'b' or trans_account == "B":
+            trans_back_flag = True
+        elif os.path.isfile( account_file ):
+            account_flag = False
+            while not account_flag:
+                trans_amount = input("\033[33;1mInput transfer amount:[b]back\033[0m").strip()
+                if trans_amount == "b" or trans_amount == "B":
+                    account_flag = True
+                    continue
+                elif len(trans_amount) > 0 and trans_amount.isdigit():
+                    self_new_balance = transaction.make_transaction( trans_logger, account_data, "transfer", trans_amount )
+                    with open( account_file, 'r') as f:
+                        trans_data = json.load(f)
+                    trans_new_balance = transaction.make_transaction( trans_logger, trans_data, "consume", trans_amount )
+                    if self_new_balance:
+                        print('''\033[31;1mNew Balance:%s\033[0m''' % (self_new_balance['balance']))
+                else:
+                    print('\033[31;1m[%s] is not a valid amount, only accept integer!\033[0m' % trans_amount)
+        else:
+            print("\033[31;1m转入账户不存在！\033[0m")
+            continue
+
 def pay_check(acc_data):
     pass
 def logout(acc_data):
@@ -102,7 +162,7 @@ def interactive(acc_data):
     \033[32;1m1.  账户信息
     2.  还款(功能已实现)
     3.  取款(功能已实现)
-    4.  转账
+    4.  转账(功能已实现)
     5.  账单
     6.  退出(功能已实现)
     \033[0m'''

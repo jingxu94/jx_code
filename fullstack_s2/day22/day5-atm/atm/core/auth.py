@@ -54,17 +54,17 @@ def acc_login(user_data,log_obj):
         while vcode_flag:
             verification_code = v_code()
             print("\033[32;1m [%s] \033[0m" % verification_code)
-            vcode = input("\033[31;1mverification_code(Enter [R] to refresh):\033[0m")
-            if vcode != 'R' and icode != 'r':
+            icode = input("\033[31;1mverification_code(Enter [R] to refresh):\033[0m")
+            if icode != 'R' and icode != 'r':
                 vcode_flag = False
-        if vcode == verification_code:
+        if icode == verification_code:
             auth = acc_auth(account, password)
             if auth: #not None means passed the authentication
                 user_data['is_authenticated'] = True
                 user_data['account_id'] = account
                 print("welcome")
                 return auth
-            retry_count +=1
+        retry_count +=1
     else:
         log_obj.error("account [%s] too many login attempts" % account)
         exit()

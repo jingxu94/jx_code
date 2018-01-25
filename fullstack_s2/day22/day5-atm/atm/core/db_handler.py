@@ -11,8 +11,8 @@ def file_db_handle(conn_params):
     :param conn_params: the db connection params set in settings
     :return:
     '''
-    print('file db:',conn_params)
-    db_path ='%s/%s' %(conn_params['path'],conn_params['name'])
+    # print('file db:',conn_params)
+    db_path =r'%s\\%s' %(conn_params['path'],conn_params['name'])
     return db_path
 def db_handler(conn_parms):
     '''
