@@ -2,10 +2,10 @@
 版本:示例版本 v1.0
 程序介绍:
     实现ATM常用功能
-    功能全部用python的基础知识实现,用到了time\os\sys\json\open\logging\函数\模块知识, 作业练习代码
+    功能全部用python的基础知识实现,用到了time\os\sys\json\open\logging\random\函数\模块知识, 作业练习代码
 
 程序结构:
-day5-atm/
+tdem-atm/
 ├── README
 ├── atm #ATM主程目录
 │   ├── __init__.py
@@ -26,7 +26,7 @@ day5-atm/
 │   │   └── transaction.py  #记账\还钱\取钱等所有的与账户金额相关的操作都 在这
 │   ├── db  #用户数据存储的地方
 │   │   ├── __init__.py
-│   │   ├── account_sample.py #生成一个初始的账户数据 ,把这个数据 存成一个 以这个账户id为文件名的文件,放在accounts目录 就行了,程序自己去会这里找
+│   │   ├── account_sample.py #生成一个初始的账户数据 ,把这个数据 存成一个 以这个账户id为文件名的文件,放在accounts目录
 │   │   └── accounts #存各个用户的账户数据 ,一个用户一个文件
 │   │       └── 1234.json #一个用户账户示例文件
 │   └── log #日志目录
