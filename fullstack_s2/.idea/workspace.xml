@@ -5,70 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c8a2370-856d-4088-b636-ea7edcaa4e8a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/.name" afterPath="$PROJECT_DIR$/day22/tdem-atm/.idea/.name" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/day5-atm.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/day5-atm.iml" afterPath="$PROJECT_DIR$/day22/tdem-atm/.idea/day5-atm.iml" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/encodings.xml" afterPath="$PROJECT_DIR$/day22/tdem-atm/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/misc.xml" afterPath="$PROJECT_DIR$/day22/tdem-atm/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/modules.xml" afterPath="$PROJECT_DIR$/day22/tdem-atm/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/day22/tdem-atm/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/README" afterPath="$PROJECT_DIR$/day22/tdem-atm/README" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/bin/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/bin/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/bin/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/bin/atm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/bin/atm.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/bin/atm.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/bin/manage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/bin/manage.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/conf/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/conf/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/conf/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/conf/settings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/conf/settings.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/conf/settings.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/accounts.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/accounts.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/accounts.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/auth.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/auth.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/auth.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/db_handler.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/db_handler.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/db_handler.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/logger.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/logger.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/logger.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/main.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/main.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/main.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/transaction.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/core/transaction.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/core/transaction.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/account_sample.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/account_sample.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/account_sample.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1001.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1001.json" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1001.json" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1002.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1002.json" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1002.json" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1003.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1003.json" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1003.json" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1004.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1004.json" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1004.json" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1005.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1005.json" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1005.json" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1234.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/db/accounts/1234.json" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1234.json" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/log/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/log/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/log/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/log/access.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/log/access.log" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/log/access.log" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/log/transactions.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/atm/log/transactions.log" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/log/transactions.log" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/shopping_mall/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day22/day5-atm/shopping_mall/__init__.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/shopping_mall/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day24/learn_socketserver.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py" afterPath="$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,10 +30,11 @@
     <SUITE FILE_PATH="coverage/fullstack_s2$test.coverage" NAME="test Coverage Results" MODIFIED="1516279169726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_list.coverage" NAME="learn_list Coverage Results" MODIFIED="1516282753553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_logging_module.coverage" NAME="learn_logging_module Coverage Results" MODIFIED="1516448961364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_pickle.coverage" NAME="learn_pickle Coverage Results" MODIFIED="1516697644268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_pickle.coverage" NAME="learn_pickle Coverage Results" MODIFIED="1516952393725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1516092323954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
     <SUITE FILE_PATH="coverage/fullstack_s2$code_template.coverage" NAME="code_template Coverage Results" MODIFIED="1515807499807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/fullstack_s2$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1516674879568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_class.coverage" NAME="learn_class Coverage Results" MODIFIED="1516958260897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24" />
     <SUITE FILE_PATH="coverage/fullstack_s2$bin__2_.coverage" NAME="bin (2) Coverage Results" MODIFIED="1516693830206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/ATM/bin" />
     <SUITE FILE_PATH="coverage/fullstack_s2$foo.coverage" NAME="foo Coverage Results" MODIFIED="1516694145516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
     <SUITE FILE_PATH="coverage/fullstack_s2$menu.coverage" NAME="menu Coverage Results" MODIFIED="1515846598065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
@@ -119,72 +60,47 @@
     <SUITE FILE_PATH="coverage/fullstack_s2$day06.coverage" NAME="day06 Coverage Results" MODIFIED="1515843829094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_generator.coverage" NAME="learn_generator Coverage Results" MODIFIED="1516332839292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
     <SUITE FILE_PATH="coverage/fullstack_s2$bin__1_.coverage" NAME="bin (1) Coverage Results" MODIFIED="1516676421359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/module_project" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1516953607140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/tdem-atm/atm/bin" />
     <SUITE FILE_PATH="coverage/fullstack_s2$shopping_cart.coverage" NAME="shopping_cart Coverage Results" MODIFIED="1515814109798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/core/main.py">
+      <file leaf-file-name="learn_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day24/learn_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="871">
-              <caret line="164" column="17" lean-forward="false" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
-              <folding>
-                <element signature="e#118#132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-              <folding>
-                <element signature="e#41#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learn_module.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day17/learn_module.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="771">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/conf/settings.py">
+      <file leaf-file-name="learn_socketserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day24/learn_socketserver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="95">
+              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account_sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/db/account_sample.py">
+      <file leaf-file-name="socketserver.py" pinned="false" current-in-tab="true">
+        <entry file="file://C:/Program Files/Python36/Lib/socketserver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="67">
+              <caret line="303" column="8" lean-forward="false" selection-start-line="303" selection-start-column="8" selection-end-line="303" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/core/auth.py">
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-              <folding>
-                <element signature="e#41#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="295">
+              <caret line="765" column="8" lean-forward="false" selection-start-line="765" selection-start-column="8" selection-end-line="765" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -209,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day21/learn_shelve.py" />
-        <option value="$PROJECT_DIR$/day22/jx_ATM/ATM/bin/ATM.py" />
         <option value="$PROJECT_DIR$/day22/jx_ATM/ATM/database/account.py" />
         <option value="$PROJECT_DIR$/day22/jx_ATM/ATM/core/logger.py" />
         <option value="$PROJECT_DIR$/day22/standard_atm/conf/Settings.py" />
@@ -260,6 +174,8 @@
         <option value="$PROJECT_DIR$/day22/day5-atm/atm/core/main.py" />
         <option value="$PROJECT_DIR$/day22/day5-atm/README" />
         <option value="$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py" />
+        <option value="$PROJECT_DIR$/day24/learn_class.py" />
+        <option value="$PROJECT_DIR$/day24/learn_socketserver.py" />
       </list>
     </option>
   </component>
@@ -292,103 +208,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack_s2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack_s2" type="462c0819:PsiDirectoryNode" />
-              <item name="day22" type="462c0819:PsiDirectoryNode" />
-              <item name="tdem-atm" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (fullstack_s2) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python学习笔记/py_training-master/sample_code/day5-atm" />
   </component>
@@ -414,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.atm">
+  <component name="RunManager" selected="Python.learn_class">
     <configuration name="account_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -453,20 +295,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="credit_card" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/standard_atm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="fullstack_s2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/standard_atm/credit_card.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24/learn_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -491,20 +333,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="learn_shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22/tdem-atm/atm/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="fullstack_s2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day21/learn_shelve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,18 +354,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.learn_pickle" />
-      <item index="1" class="java.lang.String" itemvalue="Python.learn_shelve" />
-      <item index="2" class="java.lang.String" itemvalue="Python.credit_card" />
-      <item index="3" class="java.lang.String" itemvalue="Python.atm" />
-      <item index="4" class="java.lang.String" itemvalue="Python.account_sample" />
+      <item index="1" class="java.lang.String" itemvalue="Python.atm" />
+      <item index="2" class="java.lang.String" itemvalue="Python.account_sample" />
+      <item index="3" class="java.lang.String" itemvalue="Python.learn_class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.manage" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.atm" />
-        <item index="1" class="java.lang.String" itemvalue="Python.account_sample" />
-        <item index="2" class="java.lang.String" itemvalue="Python.credit_card" />
-        <item index="3" class="java.lang.String" itemvalue="Python.learn_shelve" />
-        <item index="4" class="java.lang.String" itemvalue="Python.learn_pickle" />
+        <item index="0" class="java.lang.String" itemvalue="Python.learn_class" />
+        <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+        <item index="2" class="java.lang.String" itemvalue="Python.learn_pickle" />
+        <item index="3" class="java.lang.String" itemvalue="Python.atm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.account_sample" />
       </list>
     </recent_temporary>
   </component>
@@ -550,13 +392,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27232635" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2684675" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18522602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27728775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972437" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3433155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -581,41 +423,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day22/standard_atm/logs/errlog.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="532">
-          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/standard_atm/credit_card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="297" column="0" lean-forward="false" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/standard_atm/database/creditcard.db">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="70" lean-forward="true" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/standard_atm/database/init_db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/standard_atm/modules/report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2527">
-          <caret line="213" column="19" lean-forward="true" selection-start-line="213" selection-start-column="19" selection-end-line="213" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day22/standard_atm/database/shoppingmark.db">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -812,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/bin/atm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1004.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -858,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,9 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-          <folding>
-            <element signature="e#41#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -891,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -899,32 +693,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/core/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
+        <state relative-caret-position="2983">
           <caret line="164" column="17" lean-forward="false" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
           <folding>
-            <element signature="e#118#132#0" expanded="true" />
+            <element signature="e#118#132#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/db/account_sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="114">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -932,28 +717,88 @@
     <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/core/auth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding>
-            <element signature="e#41#54#0" expanded="true" />
+            <element signature="e#41#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/bin/atm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#41#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day17/learn_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="266">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1006.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/bin/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        <state relative-caret-position="513">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
           <folding>
-            <element signature="e#41#55#0" expanded="true" />
+            <element signature="e#41#59#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="e#41#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24/learn_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24/learn_socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="765" column="8" lean-forward="false" selection-start-line="765" selection-start-column="8" selection-end-line="765" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="303" column="8" lean-forward="false" selection-start-line="303" selection-start-column="8" selection-end-line="303" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
