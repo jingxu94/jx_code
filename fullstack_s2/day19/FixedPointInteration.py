@@ -1,42 +1,25 @@
 #__author:  "Jing Xu"
-#date:  2018/1/22
+#date:  2018/1/31
 
+from sympy import diff,symbols
 import re
-import sys
 
 
-def start_window():
-	'''
-	起始界面
-	:param:	expression:待计算表达式
-	:return: 返回有内容的输入
-	'''
-	start_info = "正则计算器"
-	print( start_info.center( 50, "*" ), "\n" )
-	while True:
-		expression = input(  "请输入你要计算的表达式[q:退出]：\n" ).strip()
-		if expression == "q" or expression == "Q":
-			sys.exit("关闭计算器")
-		elif len(expression) == 0:
-			continue
-		else:
-			return expression
-
-
-def format_string(string):
+def format_string(expression):
 	'''
 	格式整理，包括正负关系判断和去除空格
-	:param string: 待整理格式的表达式
+	:param expression: 待整理格式的表达式
 	:return: 返回去除多余正负号和空格的表达式
 	'''
-	string = string.replace('--', '+')
-	string = string.replace('-+', '-')
-	string = string.replace('+-', '-')
-	string = string.replace('++', '+')
-	string = string.replace('*+', '*')
-	string = string.replace('/+', '/')
-	string = string.replace(' ', '')
-	return string
+	expression = expression.replace("--", "+")
+	expression = expression.replace("-+", "-")
+	expression = expression.replace("+-", "-")
+	expression = expression.replace("++", "+")
+	expression = expression.replace("*+", "*")
+	expression = expression.replace("/+", "/")
+	expression = expression.replace(" ", "")
+	return expression
+
 
 def cal_pow(string):
 	'''
@@ -58,7 +41,6 @@ def cal_pow(string):
 			string = string.replace( expression, str(pow_result) )
 			string = format_string(string)
 	return string
-
 
 
 def cal_mul_div(string):
@@ -125,13 +107,17 @@ def cal_add_sub(string):
 	return string
 
 
-def recalculate(source):
+def recalculate( source, x_value ):
 	'''
 	正则计算器
 	:param source:待计算表达式
 	:return: 返回正则计算器计算结果，输出为字符型
 	'''
+	x_value_str = str(x_value)
+	source = source.replace("x", x_value_str)
 	source = format_string(source)
+	# print(source)
+	# return eval(source)
 	while source.count('(') > 0:
 		strs = re.search( '\([^()]+\)', source ).group()
 		replace_str = cal_pow(strs)
@@ -146,20 +132,24 @@ def recalculate(source):
 	return source.replace( "+", "" )
 
 
-if __name__ == "__main__":
-	try:
-		expression = start_window()
-		reresult = recalculate( expression )
-		result = eval( expression )
-		reresult = float( reresult )
-		result = float( result )
-		if result == reresult:
-			print( "eval计算结果：%s" % result )
-			print( "正则计算器计算结果：%s" % reresult )
-		else:  # 两种计算方式的结果不正确，提示异常，并返回两种方式的计算结果
-			print( "计算结果异常，请重新检查输入！")
-			print( "eval计算结果：%s" % result )
-			print( "正则计算器计算结果：%s" % reresult )
-	except(SyntaxError, ValueError, TypeError):  # 如果有不合法输出，则抛出错误
-		print("输入表达式不合法，请重新检查输入！")
-		start_window()
+def func( x_value, expression ):
+	cal_expression = expression
+	# print(cal_string)
+	value = float('%.4f' %float(recalculate(cal_expression, x_value)))
+	# print("value:",value)
+	return value
+
+expression = input("请输入方程左端项：").strip()
+x_value = float( input("请输入初始迭代值：").strip() )
+eps = 1e-2
+x = symbols("x")
+diff_expression = str(diff( expression, x ))
+expression = "(" + diff_expression + ")" + "*" + "x" + "-" + "(" + expression + ")"
+cal_string = "(" + expression + ")" + "/" + "(" + diff_expression + ")"
+
+while True:
+	xtemp = func( x_value, cal_string )
+	if ( abs( xtemp - x_value ) < eps ):
+		break
+	x_value = xtemp
+print( "The solution is:", xtemp )
