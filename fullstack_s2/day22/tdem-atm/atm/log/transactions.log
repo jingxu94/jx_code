@@ -45,3 +45,4 @@
 2018-01-30 21:15:27,956 - transaction - INFO - account:1001   action:transfer    amount:9000.0   interest:450.0
 2018-01-30 21:15:27,969 - transaction - INFO - account:1005   action:consume    amount:9000.0   interest:0.0
 2018-01-30 22:33:02,021 - transaction - INFO - account:1002   action:withdraw    amount:30000.0   interest:1500.0
+2018-02-01 11:41:15,423 - transaction - INFO - account:1001   action:withdraw    amount:10000.0   interest:500.0
