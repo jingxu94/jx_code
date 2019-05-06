@@ -1,0 +1,6 @@
+source.dat
+3
+BXYZL.grd
+output_gra.grd
+output_mag.grd
+output_rtp.grd

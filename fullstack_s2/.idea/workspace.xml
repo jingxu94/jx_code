@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c8a2370-856d-4088-b636-ea7edcaa4e8a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/review/18.02.14.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/fullstack_s2.iml" afterPath="$PROJECT_DIR$/.idea/fullstack_s2.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,67 +17,99 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_reflect.coverage" NAME="learn_reflect Coverage Results" MODIFIED="1517319540730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$lesson_file.coverage" NAME="lesson_file Coverage Results" MODIFIED="1515899376696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$bin.coverage" NAME="bin Coverage Results" MODIFIED="1516676320315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_project" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_function02.coverage" NAME="learn_function02 Coverage Results" MODIFIED="1516261721513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$test.coverage" NAME="test Coverage Results" MODIFIED="1517406516413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_list.coverage" NAME="learn_list Coverage Results" MODIFIED="1516282753553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_logging_module.coverage" NAME="learn_logging_module Coverage Results" MODIFIED="1516448961364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$review.coverage" NAME="review Coverage Results" MODIFIED="1516439520006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_sys_module.coverage" NAME="learn_sys_module Coverage Results" MODIFIED="1516440765024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$test_copy.coverage" NAME="test_copy Coverage Results" MODIFIED="1515931383512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_hashlib_module.coverage" NAME="learn_hashlib_module Coverage Results" MODIFIED="1516446879310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$Calculator02.coverage" NAME="Calculator02 Coverage Results" MODIFIED="1516673310882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_tornado.coverage" NAME="learn_tornado Coverage Results" MODIFIED="1517320412345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1515832121913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$bin__3_.coverage" NAME="bin (3) Coverage Results" MODIFIED="1516694150814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_os_module.coverage" NAME="learn_os_module Coverage Results" MODIFIED="1516438507114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_class__1_.coverage" NAME="learn_class (1) Coverage Results" MODIFIED="1517137426537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
     <SUITE FILE_PATH="coverage/fullstack_s2$admin.coverage" NAME="admin Coverage Results" MODIFIED="1517476944198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day29/Jaime/bin" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$copy.coverage" NAME="copy Coverage Results" MODIFIED="1515930551507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_metaclass.coverage" NAME="learn_metaclass Coverage Results" MODIFIED="1517232080080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_copy.coverage" NAME="learn_copy Coverage Results" MODIFIED="1516089903717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$credit_card.coverage" NAME="credit_card Coverage Results" MODIFIED="1516843848255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/standard_atm" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$day06.coverage" NAME="day06 Coverage Results" MODIFIED="1515843829094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_generator.coverage" NAME="learn_generator Coverage Results" MODIFIED="1516332839292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1516871400006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/day5-atm/atm/db" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_exception.coverage" NAME="learn_exception Coverage Results" MODIFIED="1517316637909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$day05.coverage" NAME="day05 Coverage Results" MODIFIED="1515764191641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_Regular_expression.coverage" NAME="learn_Regular_expression Coverage Results" MODIFIED="1516628010543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_json.coverage" NAME="learn_json Coverage Results" MODIFIED="1516697269014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_login.coverage" NAME="learn_login Coverage Results" MODIFIED="1516279609815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_module.coverage" NAME="learn_module Coverage Results" MODIFIED="1516351023990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_pickle.coverage" NAME="learn_pickle Coverage Results" MODIFIED="1516952393725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1516092323954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$code_template.coverage" NAME="code_template Coverage Results" MODIFIED="1515807499807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_class.coverage" NAME="learn_class Coverage Results" MODIFIED="1516958260897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1517406417392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$bin__2_.coverage" NAME="bin (2) Coverage Results" MODIFIED="1516693830206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/ATM/bin" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$foo.coverage" NAME="foo Coverage Results" MODIFIED="1516694145516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$menu.coverage" NAME="menu Coverage Results" MODIFIED="1515846598065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$3menu.coverage" NAME="3menu Coverage Results" MODIFIED="1515848039540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_shelve.coverage" NAME="learn_shelve Coverage Results" MODIFIED="1516698191500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$bin__3_.coverage" NAME="bin (3) Coverage Results" MODIFIED="1516694150814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_copy.coverage" NAME="learn_copy Coverage Results" MODIFIED="1516089903717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1516092323954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
     <SUITE FILE_PATH="coverage/fullstack_s2$learn_zhuangshi.coverage" NAME="learn_zhuangshi Coverage Results" MODIFIED="1516272271470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$list_lesson.coverage" NAME="list_lesson Coverage Results" MODIFIED="1515812093502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_socketserver.coverage" NAME="learn_socketserver Coverage Results" MODIFIED="1517059646630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_function.coverage" NAME="learn_function Coverage Results" MODIFIED="1516104512652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_config_module.coverage" NAME="learn_config_module Coverage Results" MODIFIED="1516526092814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$FixedPointInteration.coverage" NAME="FixedPointInteration Coverage Results" MODIFIED="1517406923695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$main.coverage" NAME="main Coverage Results" MODIFIED="1516693771648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/ATM/module" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$atm.coverage" NAME="atm Coverage Results" MODIFIED="1517832320832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/tdem-atm/atm/bin" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$bin__1_.coverage" NAME="bin (1) Coverage Results" MODIFIED="1516676421359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/module_project" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1516953607140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/tdem-atm/atm/bin" />
-    <SUITE FILE_PATH="coverage/fullstack_s2$learn_pakage.coverage" NAME="learn_pakage Coverage Results" MODIFIED="1517321525330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
     <SUITE FILE_PATH="coverage/fullstack_s2$shopping_cart.coverage" NAME="shopping_cart Coverage Results" MODIFIED="1515814109798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_login.coverage" NAME="learn_login Coverage Results" MODIFIED="1516279609815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_pakage.coverage" NAME="learn_pakage Coverage Results" MODIFIED="1517321525330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_logging_module.coverage" NAME="learn_logging_module Coverage Results" MODIFIED="1516448961364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$menu.coverage" NAME="menu Coverage Results" MODIFIED="1515846598065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$bin.coverage" NAME="bin Coverage Results" MODIFIED="1516676320315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_project" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1516953607140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/tdem-atm/atm/bin" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_tornado.coverage" NAME="learn_tornado Coverage Results" MODIFIED="1517320412345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$bin__2_.coverage" NAME="bin (2) Coverage Results" MODIFIED="1516693830206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/ATM/bin" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$day06.coverage" NAME="day06 Coverage Results" MODIFIED="1515843829094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_hashlib_module.coverage" NAME="learn_hashlib_module Coverage Results" MODIFIED="1516446879310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_reflect.coverage" NAME="learn_reflect Coverage Results" MODIFIED="1517319540730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$day05.coverage" NAME="day05 Coverage Results" MODIFIED="1515764191641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$main.coverage" NAME="main Coverage Results" MODIFIED="1516693771648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/ATM/module" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_pickle.coverage" NAME="learn_pickle Coverage Results" MODIFIED="1516952393725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$code_template.coverage" NAME="code_template Coverage Results" MODIFIED="1515807499807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_function.coverage" NAME="learn_function Coverage Results" MODIFIED="1516104512652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$list_lesson.coverage" NAME="list_lesson Coverage Results" MODIFIED="1515812093502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$review.coverage" NAME="review Coverage Results" MODIFIED="1516439520006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$lesson_file.coverage" NAME="lesson_file Coverage Results" MODIFIED="1515899376696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$bin__1_.coverage" NAME="bin (1) Coverage Results" MODIFIED="1516676421359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/module_project" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1515832121913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_metaclass.coverage" NAME="learn_metaclass Coverage Results" MODIFIED="1517232080080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$Calculator02.coverage" NAME="Calculator02 Coverage Results" MODIFIED="1516673310882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_shelve.coverage" NAME="learn_shelve Coverage Results" MODIFIED="1516698191500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_generator.coverage" NAME="learn_generator Coverage Results" MODIFIED="1516332839292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$test.coverage" NAME="test Coverage Results" MODIFIED="1517406516413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_json.coverage" NAME="learn_json Coverage Results" MODIFIED="1516697269014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_exception.coverage" NAME="learn_exception Coverage Results" MODIFIED="1517316637909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_function02.coverage" NAME="learn_function02 Coverage Results" MODIFIED="1516261721513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_class__1_.coverage" NAME="learn_class (1) Coverage Results" MODIFIED="1517137426537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_config_module.coverage" NAME="learn_config_module Coverage Results" MODIFIED="1516526092814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$test_copy.coverage" NAME="test_copy Coverage Results" MODIFIED="1515931383512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$foo.coverage" NAME="foo Coverage Results" MODIFIED="1516694145516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$copy.coverage" NAME="copy Coverage Results" MODIFIED="1515930551507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_module.coverage" NAME="learn_module Coverage Results" MODIFIED="1516351023990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_socketserver.coverage" NAME="learn_socketserver Coverage Results" MODIFIED="1517059646630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$credit_card.coverage" NAME="credit_card Coverage Results" MODIFIED="1516843848255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/standard_atm" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1516871400006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/day5-atm/atm/db" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_list.coverage" NAME="learn_list Coverage Results" MODIFIED="1516282753553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_sys_module.coverage" NAME="learn_sys_module Coverage Results" MODIFIED="1516440765024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$3menu.coverage" NAME="3menu Coverage Results" MODIFIED="1515848039540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$FixedPointInteration.coverage" NAME="FixedPointInteration Coverage Results" MODIFIED="1517406923695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1517406417392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$atm.coverage" NAME="atm Coverage Results" MODIFIED="1517832320832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22/tdem-atm/atm/bin" />
+    <SUITE FILE_PATH="coverage/fullstack_s2$learn_Regular_expression.coverage" NAME="learn_Regular_expression Coverage Results" MODIFIED="1516628010543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="18.02.14.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/review/18.02.14.py">
+      <file leaf-file-name="Calculator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day19/Calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="-1027">
+              <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+              <folding>
+                <element signature="e#41#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="code_template.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day05/code_template.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helloworld" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day08/helloworld">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_file.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day08/lesson_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="96" />
     <option name="y" value="8" />
     <option name="width" value="1642" />
@@ -190,8 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,6 +234,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,7 +396,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -372,7 +405,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19364598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -401,27 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/log/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/db/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/db/accounts/1004.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -471,13 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python36/Lib/socketserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="303" column="8" lean-forward="false" selection-start-line="303" selection-start-column="8" selection-end-line="303" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/socketserver.py" />
     <entry file="file://$PROJECT_DIR$/day24/learn_socketserver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="752">
@@ -492,20 +498,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3686">
-          <caret line="194" column="4" lean-forward="false" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/anaconda/Lib/site-packages/tornado/ioloop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="159" column="51" lean-forward="true" selection-start-line="159" selection-start-column="51" selection-end-line="159" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+    <entry file="file://I:/anaconda/Lib/site-packages/tornado/ioloop.py" />
     <entry file="file://$PROJECT_DIR$/day25/作业要求">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -562,27 +556,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://I:/anaconda/Lib/site-packages/sympy/core/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1572">
-          <caret line="1383" column="0" lean-forward="false" selection-start-line="1383" selection-start-column="0" selection-end-line="1383" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1542987674/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="4885" column="8" lean-forward="false" selection-start-line="4885" selection-start-column="8" selection-end-line="4885" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day19/Calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="121" column="37" lean-forward="false" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://I:/anaconda/Lib/site-packages/sympy/core/basic.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1542987674/builtins.py" />
     <entry file="file://$PROJECT_DIR$/day19/FixedPointInteration.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2451">
@@ -597,13 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/log/transactions.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="776">
-          <caret line="47" column="112" lean-forward="false" selection-start-line="47" selection-start-column="112" selection-end-line="47" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/log/transactions.log" />
     <entry file="file://$PROJECT_DIR$/day29/Jaime/config/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -679,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2983">
           <caret line="164" column="17" lean-forward="false" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,22 +704,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/log/access.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="95">
-          <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/tdem-atm/atm/log/access.log" />
     <entry file="file://$PROJECT_DIR$/review/18.02.14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/helloworld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/lesson_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day19/Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1027">
+          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+          <folding>
+            <element signature="e#41#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
