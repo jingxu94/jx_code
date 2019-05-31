@@ -1,0 +1,187 @@
+\documentclass[10pt,aspectratio=169,mathserif]{beamer}		
+%设置为 Beamer 文档类型，设置字体为 10pt，长宽比为16:9，数学字体为 serif 风格
+
+%%%%-----导入宏包-----%%%%
+\usepackage{ccnu}			%导入 CCNU 模板宏包
+%\usepackage{ctex}			 %导入 ctex 宏包，添加中文支持
+\usepackage{xeCJK}
+\usepackage{amsmath,amsfonts,amssymb,bm}   %导入数学公式所需宏包
+\usepackage{color}			 %字体颜色支持
+\usepackage{graphicx,hyperref,url}	
+%%%%%%%%%%%%%%%%%%
+
+
+\setsansfont{Helvetica} 							%Windows和Mac OS下都可用
+%\setsansfont{Times New Roman}
+%\setCJKmainfont{Hiragino Sans GB W3}    	%仅Windows可用
+\setCJKmainfont{Songti SC}								%仅Mac OS下可用
+
+% \beamertemplateballitem		%设置 Beamer 主题
+\usetheme{Copenhagen}
+\usecolortheme{orchid}
+
+
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>
+    \frametitle{\textbf{目录}}
+    \textbf{\tableofcontents[currentsection]}
+  \end{frame}
+}
+
+
+%%%%----首页信息设置----%%%%
+\title[Full-domain Apparent Resistivity Definition with Arbitrary Transmitting Waveform]{\fontsize{13pt}{18pt}\selectfont {Full-domain Apparent Resistivity Definition for Loop Source TEM with Arbitrary Transmitting Waveform}}
+%\subtitle{\fontsize{9pt}{14pt}\selectfont \textbf{子标题}}			
+%%%%----标题设置
+
+
+\author[Xu Jing]{Xu Jing \\ \texttt{jx\_tdem@qq.com}}
+%%%%----个人信息设置
+
+\institute[Group TDEM of Prof. Xiu Li]{
+  College of Geology Engineering and Geomatics\\
+  Chang’an University}
+%%%%----机构信息
+
+\date[\today]{
+ \today}
+%%%%----日期信息
+
+%=====================================================
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}				%生成标题页
+%=====================================================
+
+
+\section*{目录}
+
+	\begin{frame}
+		\frametitle{\textbf{目录}}
+		\textbf{\tableofcontents}
+	\end{frame}
+%=====================================================
+
+
+\section{引言}
+
+	\begin{frame}
+		\frametitle{\textbf{引言}}
+		\begin{block}{\textbf{研究背景}}
+			\begin{itemize}
+				\item 研究背景一
+				\item 研究背景二
+				\item 研究背景三
+			\end{itemize}
+		\end{block}
+		
+		\begin{block}{\textbf{研究现状}}
+			\begin{itemize}
+				\item 研究现状一
+				\item 研究现状二
+				\item 研究现状三
+			\end{itemize}
+		\end{block}
+	\end{frame}
+%=====================================================
+
+
+\section[标题简写]{标题的完整表达}
+
+	\begin{frame}
+		\frametitle{\textbf{二级标题1}}
+		\begin{figure}[!t]
+			\centering
+			\includegraphics[width=1in]{figures/B_logo.jpg}
+			\caption{长大蓝色Logo-这里填图名}
+			\label{figure1}
+		\end{figure}
+		\textbf{粗体文字}普通文字。\\
+		换行书写。
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{\textbf{二级标题2}}
+		\begin{figure}[!t]
+			\centering
+			\includegraphics[width=4in]{figures/D_logo.jpg}
+			\caption{长大黑色文字Logo-这里填图名}
+			\label{figure2}
+		\end{figure}
+		\textbf{粗体文字}普通文字。\\
+		换行书写。
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{\textbf{二级标题3}}
+		\begin{figure}[!t]
+			\centering
+			\includegraphics[width=1in]{figures/B_logo.jpg}
+			\caption{长大蓝色Logo-这里填图名}
+			\label{figure3}
+		\end{figure}
+		\textbf{粗体文字}普通文字。\\
+		换行书写。
+	\end{frame}
+%=====================================================
+\section[标题三]{标题三的完整表达}
+
+	\begin{frame}
+		\frametitle{\textbf{标题3.1}}
+		% ----------------分栏的结构开始---------------- %
+		% 该结构中使用block分开两个内容区
+		\begin{columns}
+			\column{.5\textwidth}%分栏占总宽一半
+			\footnotesize
+			\begin{itemize}
+				\item 第一点
+				\item 第二点
+				\item 第三点
+			\end{itemize}
+			
+			\column{.5\textwidth}%分栏占总宽一半
+			\begin{table}%数据表
+				\caption{表名}
+				\label{table1}
+				\centering
+				\footnotesize
+				\begin{tabular}{|c|c|}%数据表分两列
+					\hline
+					\textbf{表头栏1}           & \textbf{表头栏2}\\
+					\hline
+					内容1    				     &1\\
+					\hline
+					内容2                      &数据2\\
+					\hline
+					内容3                      &3\\
+					\hline
+					内容4                      &4\\
+					\hline
+					内容5                      &5\\
+					\hline
+					内容6                      &6\\
+					\hline
+				\end{tabular}
+			\end{table}
+		\end{columns}
+		
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{\textbf{标题3.2}}
+		\begin{figure}[!t]
+			\centering
+			\includegraphics[width=4in]{figures/D_logo.jpg}
+			\caption{长大黑色文字Logo-这里填图名}
+			\label{figure4}
+		\end{figure}
+		\textbf{粗体文字}普通文字。\\
+		换行书写。
+	\end{frame}
+
+
+
+\end{document} 
